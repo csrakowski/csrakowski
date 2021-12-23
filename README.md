@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi There, I'm Christiaan Rakowski (He/Him)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+I'm the Lead Software Engineer on the XXImo Platform team, at XXImo Mobility, The Netherlands.
 
-<!--
-**csrakowski/csrakowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can reach me via: [<img align="center" alt="Christiaan Rakowski | Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+#### 📊 Github Stats:
+<img align="center" alt="Christiaan Rakowski's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=csrakowski&show_icons=true&theme=dracula" />
+
+<img align="center" alt="Christiaan Rakowski's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csrakowski&layout=compact&theme=dracula" />
+
+
+
+[linkedin]: https://www.linkedin.com/in/christiaanrakowski/
