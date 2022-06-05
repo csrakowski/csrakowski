@@ -1,4 +1,4 @@
-## Hi There, I'm Christiaan Rakowski (He/Him)! <img src="https://raw.githubusercontent.com/csrakowski/csrakowski/master/wave.gif" width="30px">
+## Hi There, I'm Christiaan Rakowski (He/Him)! <img src="https://raw.githubusercontent.com/csrakowski/csrakowski/master/wave.gif" style="width:32px" width="32px">
 
 I'm the Lead Software Engineer on the XXImo Platform team, at XXImo Mobility, The Netherlands.
 
