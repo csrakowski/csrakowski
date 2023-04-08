@@ -13,6 +13,10 @@ You can reach me via: [✉][email] or [<img align="center" alt="Christiaan Rakow
 
 ![Christiaan Rakowski's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csrakowski&layout=compact&theme=dracula "Christiaan Rakowski's Most Used Languages")
 
+
+[![An image of @csrakowski's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/csrakowski)](https://holopin.io/@csrakowski)
+
+
 [email]: mailto:cs.rakowski@gmail.com
 [linkedin]: https://www.linkedin.com/in/christiaanrakowski/
 [paypal]: https://www.paypal.me/csrakowski
