@@ -1,6 +1,6 @@
 ## Hi There, I'm Christiaan Rakowski (He/Him)! <img src="https://raw.githubusercontent.com/csrakowski/csrakowski/master/wave.gif" style="width:32px;height:32px;" width="32px" height="32px" alt="👋">
 
-I'm the Solutions Architect at XXImo Mobility, The Netherlands.
+I'm the Solutions Architect at XXImo Holding, The Netherlands.
 
 You can reach me via: [✉][email] or [<img align="center" alt="Christiaan Rakowski | Linkedin" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 
